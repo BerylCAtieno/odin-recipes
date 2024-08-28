@@ -1,0 +1,27 @@
+* {
+    background-color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: blueviolet;
+}
+
+h2 {
+    text-align: center;
+    color: grey;
+}
+
+.blog-links {
+    background-color: grey;
+    text-align: center;
+}
+
+a {
+    background-color: grey;
+}
+
+#page-title {
+    background-color: gainsboro;
+}
